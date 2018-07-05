@@ -1,5 +1,6 @@
 po da
 
+<<<<<<< HEAD
 summa
 
 
@@ -12,3 +13,6 @@ push
 remote
 
 
+=======
+summa
+>>>>>>> parent of 407c3b1... 4
